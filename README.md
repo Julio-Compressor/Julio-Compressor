@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning html, CSS, JS, PHP
+- 🌱 Actuellement en formation à la Wild Code School, j'apprends le Web dev au travers de PHP symfony.
 
 
 <!---
