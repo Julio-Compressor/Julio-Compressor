@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julio-compressor&label=Profile%20views&color=0e75b6&style=flat" alt="julio-compressor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julio-compressor" alt="julio-compressor" /></a> </p>
 
 - 🔭 I’m currently working on [Pause Play Game](https://github.com/WildCodeSchool-2024-02/rem-php-p3-origins-digital)
 
