@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Pause Play Game](https://github.com/WildCodeSchool-2024-02/rem-php-p3-origins-digital)
 
-- 🌱 I’m currently learning **python, angular, java**
+- 🌱 I’m currently learning **python, Rust, angular, java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
